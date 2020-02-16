@@ -1,4 +1,5 @@
 *.json
+*-checkpoint.*
 companies.sql
 content.sql
 content_access.sql
